@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/CThreadPool/.vs
+/CThreadPool/readme
+/CThreadPool/CThreadPool/bin
+/CThreadPool/CThreadPool/obj
